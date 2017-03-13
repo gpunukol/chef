@@ -1,0 +1,7 @@
+DEPENDENCIES
+  Nginx
+    path: .
+    metadata: true
+
+GRAPH
+  Nginx (0.1.0)
